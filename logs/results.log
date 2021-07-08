@@ -1,0 +1,33 @@
+root - INFO - SUCCESS: Read file at data/bank_data.csv with 10127 rows
+root - INFO - Creating plot for Churn
+root - INFO - Saving plot for Churn in images/eda/Churn_plot.png
+root - INFO - SUCCESS: EDA images successfully Generated
+root - INFO - Creating plot for Customer_Age
+root - INFO - Saving plot for Customer_Age in images/eda/Customer_Age_plot.png
+root - INFO - SUCCESS: EDA images successfully Generated
+root - INFO - Creating plot for Marital_Status
+root - INFO - Saving plot for Marital_Status in images/eda/Marital_Status_plot.png
+root - INFO - SUCCESS: EDA images successfully Generated
+root - INFO - Creating plot for Total_Trans_Ct
+root - INFO - Saving plot for Total_Trans_Ct in images/eda/Total_Trans_Ct_plot.png
+root - INFO - SUCCESS: EDA images successfully Generated
+root - INFO - Creating plot for Heat_Map
+root - INFO - Saving plot for Heat_Map in images/eda/Heat_Map_plot.png
+root - INFO - SUCCESS: EDA images successfully Generated
+root - INFO - Calculating churn proportion for Gender column
+root - INFO - Calculating churn proportion for Education_Level column
+root - INFO - Calculating churn proportion for Marital_Status column
+root - INFO - Calculating churn proportion for Income_Category column
+root - INFO - Calculating churn proportion for Card_Category column
+root - INFO - SUCCESS: Encoding of categorical data complete
+root - INFO - SUCCESS: Feature engineering complete
+root - INFO - Training Random Forest Model
+root - INFO - Training Logistic Regression Model
+root - INFO - SUCCESS: Done Training Models
+root - INFO - SUCCESS: Prediction Successful
+root - INFO - SUCCESS: Saving plot for Random Forest in images/results/Random Forest Result.png
+root - INFO - SUCCESS: Saving plot for Logistic Regression in images/results/Logistic Regression Result.png
+root - INFO - SUCCESS: Saving plot for feature importance in images/results/feature_importance_plot.png
+root - INFO - SUCCESS: Saving plot for ROC in images/results/ROC.png
+root - INFO - Saving Random Forest model at ./models/rfc_model.pkl
+root - INFO - Saving Logistic Regression model at ./models/logistic_model.pkl
